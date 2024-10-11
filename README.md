@@ -56,9 +56,9 @@ To classify an image, load the image using the specified functions and input it 
 The model's performance is evaluated using metrics such as accuracy and loss. Visualizations of training and validation accuracy/loss over epochs are provided.
 
 # Future Enhancements
-  -Experiment with different CNN architectures (e.g., ResNet, VGG).
-  -Implement data augmentation techniques to improve model generalization.
-  -Fine-tune hyperparameters for better performance.
-  -Deploy the model as a web application for real-time predictions.
-#Contributing
-  -Feel free to fork this project, make improvements, and submit a pull request. All contributions are welcome!  
+  - Experiment with different CNN architectures (e.g., ResNet, VGG).
+  - Implement data augmentation techniques to improve model generalization.
+  - Fine-tune hyperparameters for better performance.
+  - Deploy the model as a web application for real-time predictions.
+# Contributing
+  - Feel free to fork this project, make improvements, and submit a pull request. All contributions are welcome!  
